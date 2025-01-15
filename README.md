@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in ActionScript 3 related to null comparisons.  The `bug.as` file shows code that throws a TypeError, even with a null check.  The solution, in `bugSolution.as`, provides a corrected approach.  This is a subtle issue that highlights the importance of strict null handling in ActionScript 3.
